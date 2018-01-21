@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505183389 source:c:\Œ—Ë—œ\lab1\main.cpp
+	<tchar.h>
+	<windows.h>
+	"main.h"
+
+1505176575 c:\Œ—Ë—œ\lab1\main.h
+
